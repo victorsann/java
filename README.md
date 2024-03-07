@@ -39,15 +39,11 @@ Module
 
 <h1>Object-Oriented Programming Concepts</h1>
 
-<p align="justify">
-If you've never used an object-oriented programming language before, you'll need to learn a few basic concepts before you can begin writing any code. This lesson will introduce you to objects, classes, inheritance, interfaces, and packages. Each discussion focuses on how these concepts relate to the real world, while simultaneously providing an introduction to the syntax of the Java programming language.
-</p>
+<p align="justify">If you've never used an object-oriented programming language before, you'll need to learn a few basic concepts before you can begin writing any code. This lesson will introduce you to objects, classes, inheritance, interfaces, and packages. Each discussion focuses on how these concepts relate to the real world, while simultaneously providing an introduction to the syntax of the Java programming language.</p>
 
 <h2>Object</h2>
 
-<p align="justify">
-Objects are key to understanding object-oriented technology. They allow you to represent real-world concepts into a coding language. Real-world objects share two characteristics: State and behavior. Software objects are conceptually similar to real-world objects. An object stores its state in fields (variables in some programming languages) and exposes its behavior through methods (functions in some programming languages).
-</p>
+<p align="justify">Objects are key to understanding object-oriented technology. They allow you to represent real-world concepts into a coding language. Real-world objects share two characteristics: State and behavior. Software objects are conceptually similar to real-world objects. An object stores its state in fields (variables in some programming languages) and exposes its behavior through methods (functions in some programming languages).</p>
 
 Consider a bicycle, for example:
 
@@ -59,9 +55,7 @@ By attributing state (current speed, current pedal cadence, and current gear) an
 
 <h2>Class</h2>
 
-<p align="justify">
-In the real world, you'll often find many individual objects all of the same kind. There may be thousands of other bicycles in existence, all of the same make and model. Each bicycle was built from the same set of blueprints and therefore contains the same components. In object-oriented terms, we say that your bicycle is an instance of the class of objects known as bicycles. A class is the blueprint from which individual objects are created.
-</p>
+<p align="justify">In the real world, you'll often find many individual objects all of the same kind. There may be thousands of other bicycles in existence, all of the same make and model. Each bicycle was built from the same set of blueprints and therefore contains the same components. In object-oriented terms, we say that your bicycle is an instance of the class of objects known as bicycles. A class is the blueprint from which individual objects are created.</p>
 
 The following Bicycle class is one possible implementation of a bicycle, written in Java:
 
