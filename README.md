@@ -39,7 +39,9 @@ Module
 
 <h1>Object-Oriented Programming Concepts</h1>
 
+<p align="justify">
 If you've never used an object-oriented programming language before, you'll need to learn a few basic concepts before you can begin writing any code. This lesson will introduce you to objects, classes, inheritance, interfaces, and packages. Each discussion focuses on how these concepts relate to the real world, while simultaneously providing an introduction to the syntax of the Java programming language.
+</p>
 
 <h2>Object</h2>
 
@@ -49,7 +51,7 @@ Consider a bicycle, for example:
 
 ![alt text](image.png)
 
-<img src="">
+By attributing state (current speed, current pedal cadence, and current gear) and providing methods for changing that state, the object remains in control of how the outside world is allowed to use it. For example, if the bicycle only has 6 gears, a method to change gears could reject any value that is less than 1 or greater than 6.
 
 <h2>Class</h2>
 

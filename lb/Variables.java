@@ -1,5 +1,5 @@
 package lb;
 
-public class Variables {
+class Variables {
 
 }
